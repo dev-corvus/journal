@@ -1,0 +1,6 @@
+{
+  "name": "journal",
+  "description": "A calm daily reflection journal designed to build a consistent writing habit with mood tracking, guided prompts, and streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
